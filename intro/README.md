@@ -2,7 +2,7 @@
 
 ## Nuke 소개
 
-* 최초에 [디지털도메인](https://www.digitaldomain.com/)에서 개발된 합성툴입니다. 이후 foudry 회사가 이 툴을 디지털도메인으로 부터 사들여 지금까지 개발,관리하고 있는 합성툴입니다.
+* 최초에 [디지털도메인](https://www.digitaldomain.com/)에서 개발된 합성툴입니다. 이후 [foudry](https://www.foundry.com/)사가 이 툴을 디지털도메인으로 부터 툴을 구입하여, 관리 및 개발하고 있는 합성툴 입니다.
 * 영화,영상 VFX 작업시 합성 작업의 표준툴로 많이 사용되고 있습니다.
 
 ## Natron 소개
