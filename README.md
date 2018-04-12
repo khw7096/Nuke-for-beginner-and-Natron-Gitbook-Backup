@@ -21,13 +21,14 @@
 * Alexa 카메라 Plate : [https://www.arri.com/DE/camera/alexa/learn/alexa\_sample\_footage/](https://www.arri.com/DE/camera/alexa/learn/alexa_sample_footage/)
 * 그린스크린 Plate : [http://www.hollywoodcamerawork.com/greenscreenplates.html](http://www.hollywoodcamerawork.com/greenscreenplates.html)
 
-### Author
-
+### About
 * 프로젝트 시작일 : '16.1.4
-* 온라인 URL : [http://www.gitbook.com/@digitalidea](http://www.gitbook.com/@digitalidea)
-* 글 : 김한웅\(khw7096@gmail.com\), 박지섭\(jyub86@gmail.com\)
-* 그림 : 윤지은
-* 촬영 : 김한웅, 윤지은
+* 온라인 URL : [https://digitalidea.gitbook.io/nuke/](https://digitalidea.gitbook.io/nuke/)
 * 이 책을 같이 작성하고 싶다면 메일을 보내주세요.
 * 라이센스가 없는 Plate 기증을 환영합니다.
 
+### Contributor
+* 김한웅\(khw7096@gmail.com\)
+* 윤지은\(thatsy@naver.com\)
+* 박지섭\(jyub86@gmail.com\)
+* 이지선\(sunlee@qvrex.co.kr\)
