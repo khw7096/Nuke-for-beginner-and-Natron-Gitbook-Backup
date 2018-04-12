@@ -13,7 +13,7 @@
 
 ## Natron
 
-* 뉴크와 비슷하게 생겼네요.
+* 뉴크와 비슷하게 생겼습니다.
 
   ![](../../.gitbook/assets/natron_interface.png)
 
