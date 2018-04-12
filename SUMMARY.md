@@ -213,5 +213,4 @@
     * [Blink\_example01](dev/blink/blink_example01.md)
   * [OFX](dev/ofx.md)
   * [개발자구인](dev/undefined.md)
-* [Jargon](jargon.md)
 
