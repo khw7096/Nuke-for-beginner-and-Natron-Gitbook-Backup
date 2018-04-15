@@ -5,8 +5,8 @@
 * 오픈소스 합성툴입니다.
 * 뉴크 Non Commercial 버전이 장애가 있을 때 Opensource Natron을 이용합니다.
 * 이 책은 각 페이지마다 필요시 Natron과 Nuke가 비교 되어있습니다.
-* Natron 소프트웨어는 성장중인 프로젝트입니다. 자주 파일을 저장합니다. 일부 기능에서는 자주 다운됩니다.
-* 사용프로젝트
+* Natron 소프트웨어는 성장중인 프로젝트입니다. 자주 파일을 저장해주세요.
+* Natron이 사용된 프로젝트
   * [https://mango.blender.org](https://mango.blender.org)
   * [https://www.youtube.com/watch?v=R6MlUcmOul8](https://www.youtube.com/watch?v=R6MlUcmOul8)
 
