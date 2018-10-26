@@ -33,5 +33,4 @@
 * 김한웅\(khw7096@gmail.com\)
 * 윤지은\(thatsy@naver.com\)
 * 박지섭\(jyub86@gmail.com\)
-* 이지선\(sunlee@qvrex.co.kr\)
 
