@@ -5,7 +5,7 @@
 | 구분 | bit | colorspace | 정보손실 | 압축 | 디스크캐쉬 |
 | --- | --- | --- | --- | --- | --- |
 | dpx | 10bit | log | 비손실 | 비압축 | 가능 |
-| exr | 16~32bit | linear,ACES | 선택가능 | 4:3 | 선택가능 |
+| exr | 16~32bit | linear,ACES | 선택가능 | 선택가능 | 선택가능 |
 | jpg | 8bit | sRGB | 손실 | 압축 | . |
 | png | 8~16bit | sRGB | 손실 | 압축 | . |
 | tif | 8~32bit | sRGB | 비손실 | 선택가능 | 가능 |
