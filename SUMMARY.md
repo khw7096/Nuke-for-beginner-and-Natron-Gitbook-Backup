@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
 * [Preface](preface.md)
-* [Goyang](goyang.md)
 * [Intro](intro/README.md)
   * [Install\_nuke](intro/install_nuke.md)
   * [Install\_natron](intro/install_natron.md)
