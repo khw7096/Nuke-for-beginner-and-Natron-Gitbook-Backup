@@ -2,8 +2,9 @@
 
 ## Nuke 소개
 
-* 최초에 [디지털도메인](https://www.digitaldomain.com/)에서 개발된 합성툴입니다. 이후 [foudry](https://www.foundry.com/)사가 이 툴을 디지털도메인으로 부터 툴을 구입하여, 관리 및 개발하고 있는 합성툴 입니다.
-* 영화,영상 VFX 작업시 합성 작업의 표준툴로 많이 사용되고 있습니다.
+* 최초에 [디지털도메인](https://www.digitaldomain.com/)에서 개발된 합성툴입니다.
+이후 [The Foundry](https://www.foundry.com/)사에서 뉴크가 관리 개발되고 있습니다.
+* 광고, 영화 VFX 작업시 합성 작업의 표준툴로 많이 사용되고 있습니다.
 
 ## Natron 소개
 
@@ -25,7 +26,7 @@
 
 ## 핸드폰으로 영상을 촬영하고 합성툴을 이용해서 작업된 결과물
 
-* 비싼 카메라 없이 노력과 아이디어로도 다음과 같은 결과물을 만들 수 있습니다.
+* 값비싼 카메라가 없어도 아티스트의 노력과 아이디어로도 충분히 다음과 같은 결과물을 제작할 수 있습니다.
 * 참고자료1 : [https://www.youtube.com/user/ZachKingVine](https://www.youtube.com/user/ZachKingVine)
 * 참고자료2 : [https://www.youtube.com/watch?v=C8O8W0RlCTc](https://www.youtube.com/watch?v=C8O8W0RlCTc)
 
