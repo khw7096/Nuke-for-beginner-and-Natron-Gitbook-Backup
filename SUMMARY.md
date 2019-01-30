@@ -189,7 +189,6 @@
   * [lesson\_3DTracking](lesson/lesson_3dtracking.md)
   * [lesson\_3DProjection](lesson/lesson_3dprojection.md)
   * [lesson\_3DCompositing](lesson/lesson_3dcompositing.md)
-  * [회사실습](lesson/undefined.md)
   * [lesson\_Portfolio](lesson/lesson_portfolio.md)
 * [Camera\_and\_Company](camera_and_company/README.md)
   * [iPhone](camera_and_company/iphone.md)
