@@ -36,7 +36,7 @@
     ```text
     r = nuke.nodes.Read(file="image.%04d.exr")
     w = nuke.nodes.Write(file="image.%04d.jpg")
-    nuke.execue("Write1",1,5)
+    nuke.execute("Write1",1,5)
     quit()
     ```
 
