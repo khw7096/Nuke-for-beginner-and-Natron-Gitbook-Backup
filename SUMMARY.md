@@ -5,7 +5,6 @@
 * [Intro](intro/README.md)
   * [Install\_nuke](intro/install_nuke.md)
   * [Install\_natron](intro/install_natron.md)
-  * [Teamviewer](intro/teamviewer.md)
   * [How\_to\_learn](intro/how_to_learn.md)
   * [Career\_tree](intro/career_tree.md)
 * [Basic](basic/README.md)
