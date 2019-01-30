@@ -1,13 +1,9 @@
 # Temperature
 
+* 어디가 가장 뜨거운 부분인지 우리는 본능적을 알 수 있습니다. 생활하면서 색온도에 대한 정보를 학습했기 때문입니다.
+
 ![](../../.gitbook/assets/lava.png)
-
-* 용암 이미지 입니다.
-* 어디서 얻은지도 모르겠어요. 언젠가 색온도를 잘 표현할 수 있는 이미지를 촬영하게 된다면 라이센스 문제로 바꿀 예정입니다.
-* 어디가 가장 뜨거운지 짐작이 가지 않습니까?
-* 제가 찍어본 촛불입니다. ND필터가 집에 없습니다. 촛불 근처는 이미지가 밝게 탔지만 색온도가 잘 뭍어있습니다. 
-
-  ![](../../.gitbook/assets/temperatur_candle.jpg)
+![](../../.gitbook/assets/temperatur_candle.jpg)
 
 * 촛불 플레이트 DNG 오리지털 데이터 : [https://drive.google.com/open?id=0B3O\_eJlmdgJVal94UExVWlpYZmM](https://drive.google.com/open?id=0B3O_eJlmdgJVal94UExVWlpYZmM)
 
